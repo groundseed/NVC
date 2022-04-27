@@ -5,3 +5,6 @@ It supports zip, tar and 7z (soon)
 
 ## Installing
 Just throw it in your path or add an alias that runs it.
+
+## Requirements
+Python 3.9 (i'd use a case for error handling but im still using 3.9)
